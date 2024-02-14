@@ -1,2 +1,7 @@
-# cloud-TH
-proyecto TH empresas
+# cloud-TH 
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
